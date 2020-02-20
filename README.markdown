@@ -3,8 +3,7 @@
 
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/fernandofatech/pen/OJVRQYp](https://codepen.io/fernandofatech/pen/OJVRQYp).
  
- ## Show view [https://codepen.io/fernandofatech/full/OJVRQY](Click Here)
-  
+ ## [Show view](https://codepen.io/fernandofatech/full/OJVRQYp)
 
 # Prerequisites
 - HTML
