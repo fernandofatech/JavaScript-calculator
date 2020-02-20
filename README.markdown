@@ -1,5 +1,11 @@
 # JavaScript calculator
+   Open source project
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/fernandofatech/pen/OJVRQYp](https://codepen.io/fernandofatech/pen/OJVRQYp).
+
+# Prerequisites
+- HTML
+- CSS
+- JS 
 
 # Calculator
 
@@ -34,5 +40,10 @@ to set the display to 0.
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/39699305/74936835-c6213200-53e2-11ea-8231-4f16ddf3cb46.png)
+
+## Useful links and resources
+
+- [Calculator (Wikipedia)](https://en.wikipedia.org/wiki/Calculator)
+- [MDN](https://developer.mozilla.org/en-US/)
 
  
