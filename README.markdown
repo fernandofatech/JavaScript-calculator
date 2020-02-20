@@ -31,5 +31,8 @@ to set the display to 0.
 -   [ ] User can see 'ERR' displayed if any operation would exceed the 
 8 digit maximum.
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/39699305/74936835-c6213200-53e2-11ea-8231-4f16ddf3cb46.png)
 
  
