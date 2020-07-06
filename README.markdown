@@ -5,6 +5,8 @@
  
  [https://fernandofatech.github.io/JavaScript-calculator/](https://fernandofatech.github.io/JavaScript-calculator/) ViewPager
  
+![image] (https://user-images.githubusercontent.com/39699305/86634805-3c0ceb00-bfca-11ea-9e42-9aa8feee9a81.png)
+ 
  ## Why? 
  
  This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
