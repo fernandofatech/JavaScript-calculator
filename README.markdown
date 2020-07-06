@@ -3,7 +3,7 @@
 
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/fernandofatech/pen/OJVRQYp](https://codepen.io/fernandofatech/pen/OJVRQYp).
  
- URL: [https://fernandofatech.github.io/JavaScript-calculator/ ViewPager](https://fernandofatech.github.io/JavaScript-calculator/ ViewPager)
+ URL: [https://fernandofatech.github.io/JavaScript-calculator/](https://fernandofatech.github.io/JavaScript-calculator/) ViewPager
  
  ## Why? 
  
