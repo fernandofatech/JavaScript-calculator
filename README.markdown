@@ -5,7 +5,6 @@
  
  [https://fernandofatech.github.io/JavaScript-calculator/](https://fernandofatech.github.io/JavaScript-calculator/) ViewPager
  
-![image] (https://user-images.githubusercontent.com/39699305/86634805-3c0ceb00-bfca-11ea-9e42-9aa8feee9a81.png)
  
  ## Why? 
  
@@ -61,7 +60,7 @@ to set the display to 0.
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/39699305/74936835-c6213200-53e2-11ea-8231-4f16ddf3cb46.png)
+![image](https://user-images.githubusercontent.com/39699305/86634805-3c0ceb00-bfca-11ea-9e42-9aa8feee9a81.png)
 
 ## Useful links and resources
 
