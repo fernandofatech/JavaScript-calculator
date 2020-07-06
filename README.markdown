@@ -23,7 +23,7 @@ It's free!
 # Prerequisites
 - HTML
 - CSS
-- JS 
+- JavaScript  
 
 # Calculator
 
