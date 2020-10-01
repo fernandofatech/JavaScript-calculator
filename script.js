@@ -71,7 +71,7 @@ TODO:
         break;
 
       case "divided by":
-        resultNum = oldNum / theNum;
+        resultNum = oldNum / theNum; //must check divisor(if it zero or not) before division here 
         break;
 
         // If equal is pressed without an operator, keep number and continue
